@@ -5,7 +5,7 @@ npm install
 npm run build
 ```
 
-and open localhost:1234 in your browser.
+and open [localhost:1234](http://localhost:1234) in your browser.
 
 # Code layout
 
